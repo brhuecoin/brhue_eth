@@ -19,7 +19,7 @@ Welcome to the official repository of **BRHUE**, the Brazilian memecoin that ble
 - **Fair Tokenomics:** No pre-mining or market manipulation.  
 
 ## 📄 Documentation & Resources
-- [Whitepaper](#) 📑  
+- [Whitepaper](Whitepaper.pdf) 📑  
 - [FAQ](#) ❓  
 - [Roadmap](#) 🛣️  
 - [How to Buy](#) 🛒  
