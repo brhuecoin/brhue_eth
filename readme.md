@@ -3,13 +3,13 @@
 Welcome to the official repository of **BRHUE**, the Brazilian memecoin that blends fun and innovation in the crypto world! 🎭🔥
 
 ## 🌟 About BRHUE
-**BRHUE** is a memecoin launched on **Ethereum blockchain**, featuring a fixed total supply of **10 million tokens**. Our goal is to build an engaged and vibrant community while offering unique participation opportunities through a strategic ICO.
+**BRHUE** is a memecoin launched on **Ethereum blockchain**, featuring a fixed total supply of **10 billions tokens**. Our goal is to build an engaged and vibrant community while offering unique participation opportunities through a strategic ICO.
 
 ## 📜 Key Information
 - **Blockchain:** Ethereum blockchain  
-- **Total Supply:** 10,000,000 BRHUE  
+- **Total Supply:** 10,000,000,000 BRHUE  
 - **ICO:** 30% of the supply will be available in two phases of 7 days each (or until sold out).  
-- **Token Mechanisms:** Burn 🔥, Emergency Pause Function ⏸️ (24h), Transfer of all received SOL to the owner.  
+- **Token Mechanisms:** Burn 🔥, Emergency Pause Function ⏸️ (24h).  
 - **Security:** The supply is fixed and cannot be increased.  
 - **Fundraising Goal:** $300K, based on SOL at $27.  
 
