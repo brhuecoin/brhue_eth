@@ -25,9 +25,8 @@ Welcome to the official repository of **BRHUE**, the Brazilian memecoin that ble
 - [How to Buy](#) 🛒  
 
 ## 📢 Stay Connected!
-- **Official Website:** [brhue.io](#)  
-- **Telegram:** [@BRHUE_Official](#)  
-- **Twitter (X):** [@BRHUE_Coin](#)  
+- **Official Website:** [brhue.fun](#)  
+- **Twitter (X):** [@BRHUEOfficial](#)  
 
 ---
 
